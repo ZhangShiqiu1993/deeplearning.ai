@@ -21,6 +21,9 @@ for iter = 1:num_iters
 
 
 
+    predication = X * theta;
+
+    theta = theta - alpha / m * ((predication - y)' * X)';
 
 
 
