@@ -2,8 +2,8 @@
 
 * [x] Linear Regression with One Variable
 * [x] Linear Regression with Multiple Variables
-* [ ] Logistic Regression
-* [ ] Regularization
+* [x] Logistic Regression
+* [x] Regularization
 * [ ] Neural Networks: Representation
 * [ ] Machine Learning System Design
 * [ ] Support Vector Machines
