@@ -4,9 +4,8 @@
 * [x] Linear Regression with Multiple Variables
 * [x] Logistic Regression
 * [x] Regularization
-* [ ] Multi-class Classification
-* [ ] Neural Networks: Model 
-* [ ] Neural Networks: Representation
+* [x] Multi-class Classification
+* [ ] Neural Networks 
 * [ ] Machine Learning System Design
 * [ ] Support Vector Machines
 * [ ] Unsupervised Learning
