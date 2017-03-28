@@ -5,7 +5,7 @@
 * [x] Logistic Regression
 * [x] Regularization
 * [x] Multi-class Classification
-* [ ] Neural Networks 
+* [x] Neural Networks 
 * [ ] Machine Learning System Design
 * [ ] Support Vector Machines
 * [ ] Unsupervised Learning
