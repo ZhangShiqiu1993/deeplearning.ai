@@ -7,7 +7,7 @@
 * [x] Multi-class Classification
 * [x] Neural Networks : Model Representation
 * [x] Neural Networks : Feedforward
-* [ ] Neural Networks : Backpropagation
+* [x] Neural Networks : Backpropagation
 * [ ] Machine Learning System Design
 * [ ] Support Vector Machines
 * [ ] Unsupervised Learning
