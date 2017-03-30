@@ -5,7 +5,9 @@
 * [x] Logistic Regression
 * [x] Regularization
 * [x] Multi-class Classification
-* [x] Neural Networks 
+* [x] Neural Networks : Model Representation
+* [x] Neural Networks : Feedforward
+* [ ] Neural Networks : Backpropagation
 * [ ] Machine Learning System Design
 * [ ] Support Vector Machines
 * [ ] Unsupervised Learning
