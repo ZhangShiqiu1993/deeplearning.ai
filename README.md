@@ -9,7 +9,6 @@
 * [x] Neural Networks : Feedforward
 * [x] Neural Networks : Backpropagation
 * [x] Bias and Viariance
-* [ ] Machine Learning System Design
 * [ ] Support Vector Machines
 * [ ] Unsupervised Learning
 * [ ] Dimensionality Reduction
