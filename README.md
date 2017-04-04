@@ -10,6 +10,7 @@
 * [x] Neural Networks : Backpropagation
 * [x] Bias and Viariance
 * [ ] Support Vector Machines
+* [ ] Kernel
 * [ ] Unsupervised Learning
 * [ ] Dimensionality Reduction
 * [ ] Anomaly Detection
