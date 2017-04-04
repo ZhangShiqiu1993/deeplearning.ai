@@ -9,7 +9,7 @@
 * [x] Neural Networks : Feedforward
 * [x] Neural Networks : Backpropagation
 * [x] Bias and Viariance
-* [ ] Support Vector Machines
+* [x] Support Vector Machines
 * [ ] Kernel
 * [ ] Unsupervised Learning
 * [ ] Dimensionality Reduction
