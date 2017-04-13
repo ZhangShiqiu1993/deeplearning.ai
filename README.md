@@ -11,7 +11,9 @@
 * [x] Bias and Viariance
 * [x] Support Vector Machines
 * [x] Kernel
-* [ ] Gaussian Kernel
-* [ ] Unsupervised Learning
-* [ ] Dimensionality Reduction
+* [x] Gaussian Kernel
+* [x] Unsupervised Learning
+* [x] K-means Clustering
+* [x] Dimensionality Reduction
+* [x] Principal Component Analysis
 * [ ] Anomaly Detection
