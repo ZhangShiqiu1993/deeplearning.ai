@@ -1,19 +1,15 @@
 ### [machine learning](https://www.coursera.org/learn/machine-learning/home/welcome) course on Coursera
 
-* [x] Linear Regression with One Variable
-* [x] Linear Regression with Multiple Variables
+* [x] Linear Regression
 * [x] Logistic Regression
 * [x] Regularization
 * [x] Multi-class Classification
-* [x] Neural Networks : Model Representation
-* [x] Neural Networks : Feedforward
-* [x] Neural Networks : Backpropagation
+* [x] Neural Networks
 * [x] Bias and Viariance
 * [x] Support Vector Machines
-* [x] Kernel
 * [x] Gaussian Kernel
-* [x] Unsupervised Learning
 * [x] K-means Clustering
 * [x] Dimensionality Reduction
 * [x] Principal Component Analysis
 * [ ] Anomaly Detection
+* [ ] Recommender Systems
