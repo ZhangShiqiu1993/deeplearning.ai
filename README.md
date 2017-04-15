@@ -5,11 +5,10 @@
 * [x] Regularization
 * [x] Multi-class Classification
 * [x] Neural Networks
-* [x] Bias and Viariance
+* [x] Bias and Variance
 * [x] Support Vector Machines
 * [x] Gaussian Kernel
 * [x] K-means Clustering
-* [x] Dimensionality Reduction
 * [x] Principal Component Analysis
-* [ ] Anomaly Detection
-* [ ] Recommender Systems
+* [x] Anomaly Detection
+* [x] Recommender Systems
