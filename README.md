@@ -12,3 +12,7 @@
 * [x] Principal Component Analysis
 * [x] Anomaly Detection
 * [x] Recommender Systems
+
+
+### [machine learning A-Z](https://www.udemy.com/machinelearning/learn/) course on Udemy
+- [x] Data preprocessing
