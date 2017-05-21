@@ -14,5 +14,12 @@
 * [x] Recommender Systems
 
 
-### [machine learning A-Z](https://www.udemy.com/machinelearning/learn/) course on Udemy
+### [Machine Learning A-Z](https://www.udemy.com/machinelearning/learn/) course on Udemy
 - [x] Data preprocessing
+- [ ] Regression
+  - [x] Simple Linear Regression
+  - [ ] Multiple Linear Regression
+  - [ ] Polynomial Regression
+  - [ ] Support Vector Regression (SVR)
+  - [ ] Decision Tree Regression
+  - [ ] Random Forest Regression
