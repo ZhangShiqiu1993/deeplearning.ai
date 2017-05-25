@@ -19,7 +19,7 @@
 - [ ] Regression
   - [x] Simple Linear Regression
   - [x] Multiple Linear Regression
-  - [ ] Polynomial Regression
+  - [x] Polynomial Regression
   - [ ] Support Vector Regression (SVR)
   - [ ] Decision Tree Regression
   - [ ] Random Forest Regression
