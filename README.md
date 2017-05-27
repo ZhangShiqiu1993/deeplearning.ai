@@ -21,5 +21,5 @@
   - [x] Multiple Linear Regression
   - [x] Polynomial Regression
   - [x] Support Vector Regression (SVR)
-  - [ ] Decision Tree Regression
+  - [x] Decision Tree Regression
   - [ ] Random Forest Regression
