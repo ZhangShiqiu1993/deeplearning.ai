@@ -16,10 +16,10 @@
 
 ### [Machine Learning A-Z](https://www.udemy.com/machinelearning/learn/v4/content) course on Udemy
 - [x] Data preprocessing
-- [ ] Regression
+- [x] Regression
   - [x] Simple Linear Regression
   - [x] Multiple Linear Regression
   - [x] Polynomial Regression
   - [x] Support Vector Regression (SVR)
   - [x] Decision Tree Regression
-  - [ ] Random Forest Regression
+  - [x] Random Forest Regression
