@@ -23,3 +23,11 @@
   - [x] Support Vector Regression (SVR)
   - [x] Decision Tree Regression
   - [x] Random Forest Regression
+- [ ] Classification
+  - [x] Logistic Regression
+  - [ ] K-NearestNeighbors
+  - [ ] Support Vector Machine
+  - [ ] Kernel SVM
+  - [ ] Naive Bayes
+  - [ ] Decision Tree Classification
+  - [ ] Random Forest Classification
