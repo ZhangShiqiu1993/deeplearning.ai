@@ -1,3 +1,5 @@
+![machine learning](./certification/machine_learning.png)
+
 # Machine Learning
 * [x] Linear Regression
 * [x] Logistic Regression
