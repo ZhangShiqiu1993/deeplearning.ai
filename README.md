@@ -1,7 +1,8 @@
+![deep learning : Neural Networks and Deep Learning](./certification/deeplearning.ai-1.png)
 ![machine learning](./certification/machine_learning.png)
 
 # Deep Learning
-+ [ ] Neural Networks and Deep Learning
++ [x] Neural Networks and Deep Learning
 + [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 + [ ] Structuring Machine Learning Projects
 + [ ] Convolutional Neural Networks
@@ -22,4 +23,4 @@
 + [x] Recommender Systems
 
 ---
-*source from [machine learning](https://www.coursera.org/learn/machine-learning/home/welcome) and [deep learning](https://www.coursera.org/specializations/deep-learning) course on Coursera*
+*source from **Andrew Ng**'s [machine learning](https://www.coursera.org/learn/machine-learning/home/welcome) and [deep learning](https://www.coursera.org/specializations/deep-learning) course on Coursera*
