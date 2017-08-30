@@ -1,9 +1,10 @@
+![deep learning : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](./certification/deeplearning.ai-2.png)
 ![deep learning : Neural Networks and Deep Learning](./certification/deeplearning.ai-1.png)
 ![machine learning](./certification/machine_learning.png)
 
 # Deep Learning
 + [x] Neural Networks and Deep Learning
-+ [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
++ [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 + [ ] Structuring Machine Learning Projects
 + [ ] Convolutional Neural Networks
 + [ ] Sequence Models
