@@ -7,7 +7,7 @@
 + [x] Neural Networks and Deep Learning
 + [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 + [x] Structuring Machine Learning Projects
-+ [ ] Convolutional Neural Networks
++ [x] Convolutional Neural Networks
 + [ ] Sequence Models
 
 # Machine Learning
