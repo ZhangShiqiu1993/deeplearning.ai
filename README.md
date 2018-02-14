@@ -1,3 +1,4 @@
+![deep learning : Sequence Models](./certification/deeplearning.ai-5.png)
 ![deep learning : Convolutional Neural Networks](./certification/deeplearning.ai-4.png)
 ![deep learning : Structuring Machine Learning Projects](./certification/deeplearning.ai-3.png)
 ![deep learning : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](./certification/deeplearning.ai-2.png)
