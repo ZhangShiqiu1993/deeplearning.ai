@@ -6,6 +6,10 @@
 ![deep learning : Neural Networks and Deep Learning](./certification/deeplearning.ai-1.png)
 ![machine learning](./certification/machine_learning.png)
 
+
+# Natural Language Processing
++ [ ] Natural Language Processing with Classification and Vector Spaces
+
 # Deep Learning
 + [x] Neural Networks and Deep Learning
 + [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
