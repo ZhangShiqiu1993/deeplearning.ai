@@ -1,6 +1,7 @@
 
 # Natural Language Processing
 + [x] Natural Language Processing with Classification and Vector Spaces
++ [ ] Natural Language Processing with Probabilistic Models
 
 ![NLP: Natural Language Processing with Classification and Vector Spaces](certification/nlp-1.png)
 
