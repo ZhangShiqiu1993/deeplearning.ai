@@ -3,6 +3,7 @@
 + [x] Natural Language Processing with Classification and Vector Spaces
 + [x] Natural Language Processing with Probabilistic Models
 + [x] Natural Language Processing with Sequence Models
++ [ ] Natural Language Processing with Attention Models
 
 ![NLP: Natural Language Processing with Classification and Vector Spaces](certification/nlp-1.png)
 ![NLP: Natural Language Processing with Probabilistic Models](certification/nlp-2.png)
