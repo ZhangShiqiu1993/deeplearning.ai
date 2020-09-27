@@ -1,13 +1,15 @@
-
 # Natural Language Processing
+![Natural Language Processing](./certification/natural_language_processing.png)
+
 + [x] Natural Language Processing with Classification and Vector Spaces
 + [x] Natural Language Processing with Probabilistic Models
 + [x] Natural Language Processing with Sequence Models
-+ [ ] Natural Language Processing with Attention Models
++ [x] Natural Language Processing with Attention Models
 
 ![NLP: Natural Language Processing with Classification and Vector Spaces](certification/nlp-1.png)
 ![NLP: Natural Language Processing with Probabilistic Models](certification/nlp-2.png)
 ![NLP: Natural Language Processing with Sequence Models](certification/nlp-3.png)
+![NLP: Natural Language Processing with Attention Models](certification/nlp-4.png)
 
 # Deep Learning
 ![deep learning](./certification/deep_learning.png)
